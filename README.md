@@ -1,0 +1,2 @@
+# azstaticapp
+Test Static App
